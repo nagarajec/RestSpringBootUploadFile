@@ -27,7 +27,7 @@ Application Build Stages:
 How to run this repository:
 
 1. Open eclipse/STS
-2. Checkout the project into local directory
+2. Clone the project into local directory
 3. Import the project using existing maven project option in eclipse/sts
 4. Clean and Build the application using maven
 5. Go to SpringBootApplicationTests class and run the class as Junit 
